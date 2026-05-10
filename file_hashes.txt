@@ -59,7 +59,7 @@ eea8d1a9c8ce68614d33ccee94d6131e5258458e89bf795c6eaf6e8dececaa55  ./docs/en/desk
 3cffb108cae6f94cf2e4be33324b5147707e663ee48346343ed98f7ca3240388  ./docs/en/devcontainer.md
 854459795d840d8fb5cd995dbb61caac1b9c4562fc7db76c0ada7ed4a45e3c22  ./docs/en/discover-plugins.md
 0a88002efdfc23316ede3621d307a04cd6633ab90c7f6e61cdea1f803d66d061  ./docs/en/env-vars.md
-094d102359a36353ab5b8028a4a191030c0249aaaa3c1938bc3a5cc834dce7bd  ./docs/en/errors.md
+983882df4b947dede26f7f88054392aefa6bd7ef0f272ff98574466d2ef57885  ./docs/en/errors.md
 847ef2d6909f4e10ac30dee4c5a4ba92bcddc95584ff39996b07d9aa77e6c2a3  ./docs/en/fast-mode.md
 a0aea90477763c9528f112eecbc06f9b5cdb389514d785a3016123a28d4ad430  ./docs/en/features-overview.md
 0bef0821bcc29ff495442e4ebb2911bc233f5e17e3f74c8f7e0201ea8a62e69b  ./docs/en/fullscreen.md
@@ -69,7 +69,7 @@ a0aea90477763c9528f112eecbc06f9b5cdb389514d785a3016123a28d4ad430  ./docs/en/feat
 83d04f2a5e3caaa59e68065c424d8d0c0ae58b271ec532017026d8002b2db7ea  ./docs/en/glossary.md
 52c878fc6d87de413c8b8af6a8fa8fff5517aa0802d363891a0f1b664bef2876  ./docs/en/google-vertex-ai.md
 a5d950a53d84a83495bb2394d9a2e7af39c4eab90fc2d44db2d5fb19c6e3d390  ./docs/en/headless.md
-ccd1639a9d75881ff461746c92514826d6dc1e2ba49b5c6e167c1de3acc172df  ./docs/en/hooks-guide.md
+6507f3a52100ae36531053973b22f7de7ce367c729cef77e5cad89bda5209876  ./docs/en/hooks-guide.md
 3b5782cc54f484e588a37923ad07779451ca291e6fda07fe1e9b530ebba385a3  ./docs/en/hooks.md
 dd22815dcddc112848b4a8720da11e2f4cb1be86ab850fd3321f99145a282507  ./docs/en/how-claude-code-works.md
 84f930bc1676bff81f5b316b289daf0df88cc0910783783d7bb6ba37ce171567  ./docs/en/interactive-mode.md
