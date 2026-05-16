@@ -24,7 +24,7 @@ d08141c422dacd2401ae08ea10983919f94d59a64548594415a6ca5f060d1248  ./docs/en/agen
 ecdbc89e8c999a393baa1ed55a82ce3adf6f3196474c5518240f6f584d15a0b2  ./docs/en/agent-sdk/structured-outputs.md
 e1c0ee9a50aaeba9695ecd2b85028430f6ced7f92bb661cd05996ee7c62f6a5d  ./docs/en/agent-sdk/subagents.md
 8411de7be9d75fe3d263ee5b3da714230aa58f67428ce8f0b7614da1de21a56d  ./docs/en/agent-sdk/todo-tracking.md
-d259dcd4ae369bea088ac5271e49ebd6f3d37c8b324df25e0071e17a42c28797  ./docs/en/agent-sdk/tool-search.md
+4e48740f2815b81b30f4d5f90e78fc5b554722cf853881210281bc405396afb8  ./docs/en/agent-sdk/tool-search.md
 adeb1ae9af73be0d938902d0ffc97d31b2443424ee871c866e4174f60b03d49a  ./docs/en/agent-sdk/typescript-v2-preview.md
 620a0d9bdfeb2810dbda31dbbb7c7345abe9fc33108d4d5adb87d29e01c735b5  ./docs/en/agent-sdk/typescript.md
 0ccb98956bca7325f1b535c8f97714e663725e56f60878c4029d93bd035e4b9c  ./docs/en/agent-sdk/user-input.md
@@ -37,13 +37,13 @@ dbf18c328c796c32531a8f011478299655f58b05b685f1bebd356c956ff08cd2  ./docs/en/amaz
 36b7edfce173671eb02c9f16fd439d445bd47fa8fbf8bcf13a4e9f770a46c4e4  ./docs/en/auto-mode-config.md
 b00dc73b266a5c064168eb1448027d0a1ba27c1e38ab85c9bfb9e5d10d0f8c0d  ./docs/en/best-practices.md
 c3574420815a3daae4062535ff3db41b5be6dd0c269cb5e4b6d500dc615ca176  ./docs/en/champion-kit.md
-3cb4e291733793d4aacfac7a1f32ee9d0fc40646008ce8eeb62a0a73a4c5ca94  ./docs/en/changelog.md
+747090000e9f17015f7db11c8d06184c9c05dcc7ee67a03a5348e8d20f9fd454  ./docs/en/changelog.md
 4a890b5b723e001043db35a481d52dfdb3fea468a2c60fc542789b05ad81d4f5  ./docs/en/channels-reference.md
 e586c028ab514a70413eaf4fe1fb654b9b1ccbc22af80a092bbb1161367632c4  ./docs/en/channels.md
 0d292b1432079262906d80a125703c9aa769899a4103588bfe0ca47e7750a4c2  ./docs/en/checkpointing.md
 8f9d762cc1ecce6d426f968e3a62c3f5ba52b6fa93aa942eb2831d5935ceaca2  ./docs/en/chrome.md
 a60e9d04b530c8ba74e4ee597e0dcc5d1a4ffbe59782ac70922220a6ffbce521  ./docs/en/claude-code-on-the-web.md
-2e9bb1e980355ca725577cfe7a35b2d5f315bbff0c8d0407039daf39b3f46ad8  ./docs/en/claude-directory.md
+d3d03851ea0e5eb5ed597d633f0cceaf5f308f5b2a9a27e228951283e8b9f075  ./docs/en/claude-directory.md
 10b4008ac43a98301379421e03adef6e0f6246b271acb8fb8e853807933da23f  ./docs/en/claude-platform-on-aws.md
 b52e0fb8676d7645926b2282eb772b84074828349100226ced733617f90135e6  ./docs/en/cli-reference.md
 b7813a56e367d265dac8cf0df8db4b1d1ba5435e294e55adb365cd74b1df32ad  ./docs/en/code-review.md
@@ -53,7 +53,7 @@ c5c94eb80b81d8298b2fa6bcdcbe5b6cc77ce969c31857c9964287e54db46d2d  ./docs/en/comm
 427032da986704fc93a4673b1ee604553d0c77f1ff04b7140aaa737be1d76993  ./docs/en/computer-use.md
 d26606820440e4ec93df872d8c64de80a1ca8cccd9a326d4e1501eaf8691640c  ./docs/en/context-window.md
 aa908d456c077c5dbdefd7a8da06278a584ba93128e36f2eeccc2b3c82719ed0  ./docs/en/costs.md
-b1a1eff53569b28d2f483e0918ce13d7239cb33ae147feb5911cb0bdba6234bf  ./docs/en/data-usage.md
+79c533f68cbda4cbd26b259655cf3f733b939614b7828339d65949529fda8630  ./docs/en/data-usage.md
 e20c94dc84d248afe155aa4b13497a030308b24791ee0afc10116c7d298c0302  ./docs/en/debug-your-config.md
 66330ea9ddaa6e261d3b16db724ea1a77920318925e3ffed45c6c121004f073a  ./docs/en/deep-links.md
 1d3fcc903970b4b2addbd3810bfef4942077b1c59b0068f51bd721673cc5e3fc  ./docs/en/desktop-changelog.md
@@ -62,8 +62,8 @@ d09f4a7060da4301e4624558c9335ae8ad74c66b20b6e12cf02bfc4b1c248d68  ./docs/en/desk
 2d8ec43cfeb748c06cdb3a0d769bf71dee22cdedc78ebeea1be2d62f7a162360  ./docs/en/desktop.md
 3cffb108cae6f94cf2e4be33324b5147707e663ee48346343ed98f7ca3240388  ./docs/en/devcontainer.md
 7b73f98be94d8ffe930d3f62530d8e7c98877dcff46afc69358f2f4aada3814a  ./docs/en/discover-plugins.md
-3c00855ecc6830e3eb7f09769bdf6533221fef6d62d99d95b74c41bdb968f56f  ./docs/en/env-vars.md
-983882df4b947dede26f7f88054392aefa6bd7ef0f272ff98574466d2ef57885  ./docs/en/errors.md
+8baeec2c268e6a36a0b747fab073c84358de595585080eb983aa8b5ea47781aa  ./docs/en/env-vars.md
+68e3f51004f8838c145e031108d4be28c1a566a8c75267745050e811e542895b  ./docs/en/errors.md
 46593f9d34da295ccd39275ed5d379d3e46256a42363f44b154edd1b242faf02  ./docs/en/fast-mode.md
 a0aea90477763c9528f112eecbc06f9b5cdb389514d785a3016123a28d4ad430  ./docs/en/features-overview.md
 3956cf3e60206c2e6ca7f201ec61af9082e75935aa07e7752b71e002c5f4d482  ./docs/en/fullscreen.md
@@ -72,7 +72,7 @@ a0aea90477763c9528f112eecbc06f9b5cdb389514d785a3016123a28d4ad430  ./docs/en/feat
 79ae00d548540892c6a7068cb4f5f2e33f6ca6d1c27aeb8b5b6e794480862820  ./docs/en/gitlab-ci-cd.md
 11ff8348bfa59d74cf350b3139c145efa54374ba26f0fabb54b0b9fceae79207  ./docs/en/glossary.md
 d1ed30854d47fa94d4b2994c890a5e1dca68878cd7e0a2711ddd733f5da07e51  ./docs/en/goal.md
-7a835fbf5e234624f8e721f85f7122d8969da67022c9fabfd17c446f5a2290dd  ./docs/en/google-vertex-ai.md
+5a89c0449b59666991be470e9658bfc7c818a30fc39a3fcffd4377642ac7a070  ./docs/en/google-vertex-ai.md
 334f62184bca3da333c5f080dd3a7cc5b798ad7546186c815e7124684ebf90d4  ./docs/en/headless.md
 f719f499fd9bca78d6fbf83bbeef484b338a5f8d0ba625549bebbe3e3f6f8550  ./docs/en/hooks-guide.md
 30ef74af06b38e300ce12058aa62be03c80c1d0e217227b60bef6222e87ca99c  ./docs/en/hooks.md
@@ -82,7 +82,7 @@ dd22815dcddc112848b4a8720da11e2f4cb1be86ab850fd3321f99145a282507  ./docs/en/how-
 b5a9fe7fbf28791d7f72f97da561c9a39adc6fecb725eb1bf73d5e8f3fed41dd  ./docs/en/keybindings.md
 ce1c6374458d4cc95cac62f1fc0e0c22806c54108ce387387d0030b425af8272  ./docs/en/legal-and-compliance.md
 9d4e000cd9c12de9a2507275ee0409202abdb291be6a6738bc059af913839682  ./docs/en/llm-gateway.md
-0c4ba77ed7b633c9c5f758d8baa722fa95d2e893653c52ceac15b05eb32a100b  ./docs/en/mcp.md
+ced6b26c4640b47ff713eec2932cbfcc2331e97aeff8473eadb200069b5d059e  ./docs/en/mcp.md
 43cc7c19f53ff5732d68c78aab50e9276aad51a1355ad8c19f305bd3f14b3173  ./docs/en/memory.md
 a309a54a2e2be46ede40b10df355c636948d17a8b7adb449eb709f38a90a39b1  ./docs/en/microsoft-foundry.md
 dea8866d7cb61a9494e2e80d66c3f7d93158df2a5ba69be7d469fdc66dc70096  ./docs/en/model-config.md
