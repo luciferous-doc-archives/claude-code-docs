@@ -1,4 +1,4 @@
-a5bab48043e96a23ab584460d7c100ca39c143a23184961eff69cef95c93d000  ./docs/en/admin-setup.md
+654000cd60e75660429df7d9c66069d7f84f246841f295c743202fc67330f495  ./docs/en/admin-setup.md
 135f4f779d8464e76f14f02d2a6a10c30a7a59906cb8d5af188c5a87c5ec7886  ./docs/en/agent-sdk/agent-loop.md
 2a6e6fb34d8bc1992eea1ad4f53756944a47f790d29b8261b2e6245c964b75c6  ./docs/en/agent-sdk/claude-code-features.md
 38f9bf5c22dd314f31a6dbeae64bca03aa1d1ed82b0d4aab887b14ea20b431d9  ./docs/en/agent-sdk/cost-tracking.md
@@ -38,7 +38,7 @@ bbd34bd8b17a2c10a44aec6575769c07af67ead8f9c1d1c00cb1c6d910758b0e  ./docs/en/agen
 36b7edfce173671eb02c9f16fd439d445bd47fa8fbf8bcf13a4e9f770a46c4e4  ./docs/en/auto-mode-config.md
 b00dc73b266a5c064168eb1448027d0a1ba27c1e38ab85c9bfb9e5d10d0f8c0d  ./docs/en/best-practices.md
 c3574420815a3daae4062535ff3db41b5be6dd0c269cb5e4b6d500dc615ca176  ./docs/en/champion-kit.md
-b0132e7d841df6c29b9cd1af213c07b6efd0ef30f92d3ddfbbd0ef57f595fbcf  ./docs/en/changelog.md
+f4b727981a5deff5ab89206a1ef29af917b613bbfefddadf4b4a03f905aa8ebf  ./docs/en/changelog.md
 a91778c7c3a4cad9ce6692fea09a583d006f998680285f81996ce2b08c4a074e  ./docs/en/channels-reference.md
 e586c028ab514a70413eaf4fe1fb654b9b1ccbc22af80a092bbb1161367632c4  ./docs/en/channels.md
 4056d43fd208398998e2e54d26b9d3913ebdc1a12de7be3538ee0158d94cb88b  ./docs/en/checkpointing.md
@@ -48,7 +48,7 @@ d3d03851ea0e5eb5ed597d633f0cceaf5f308f5b2a9a27e228951283e8b9f075  ./docs/en/clau
 0431b488da21e29ff7a55ed81438f06e92c27aed322c426c6b20de216e961326  ./docs/en/claude-platform-on-aws.md
 cb47fedb070f224ee3adcd3bc4bf022cd1eadedf437664763099459371b56db8  ./docs/en/cli-reference.md
 549a0e2a57d30028c1ed52dba5de1bb712f26c1bfeb845b6cceb35a9dd57f85c  ./docs/en/code-review.md
-1ff69fb2b6252d76a6ac30b697ec26c15438631c6f94c4b5c0652c66f9d5514f  ./docs/en/commands.md
+e35874a9aeb46b5d03764103003cdbdc4b780affb83c98ffbc9b1dcc4cd205c1  ./docs/en/commands.md
 c5c94eb80b81d8298b2fa6bcdcbe5b6cc77ce969c31857c9964287e54db46d2d  ./docs/en/common-workflows.md
 14f4728a03fac9f77a12588acf76308f1e2fc8b271c7d7af19b05c07b69d2f9e  ./docs/en/communications-kit.md
 427032da986704fc93a4673b1ee604553d0c77f1ff04b7140aaa737be1d76993  ./docs/en/computer-use.md
@@ -58,13 +58,13 @@ c5c94eb80b81d8298b2fa6bcdcbe5b6cc77ce969c31857c9964287e54db46d2d  ./docs/en/comm
 77458f5d4fe97c2873ed7e170a47474809691c4888bdf40d37dc400b734feaf5  ./docs/en/debug-your-config.md
 66330ea9ddaa6e261d3b16db724ea1a77920318925e3ffed45c6c121004f073a  ./docs/en/deep-links.md
 1d3fcc903970b4b2addbd3810bfef4942077b1c59b0068f51bd721673cc5e3fc  ./docs/en/desktop-changelog.md
-4696210c0ddbd043e14e04bf8ed03e51ef5ed323c9f0486d77f0eb73720f04b8  ./docs/en/desktop-quickstart.md
+08f487719c2ed5f53d32ee96cec84bcd02336728bc5f452c59355dc2ca3259ee  ./docs/en/desktop-quickstart.md
 d09f4a7060da4301e4624558c9335ae8ad74c66b20b6e12cf02bfc4b1c248d68  ./docs/en/desktop-scheduled-tasks.md
-375ac533cbf7ea8d50902dbbc8e42383a722cc87cb0028e3beac8f06317889e8  ./docs/en/desktop.md
+a2f4ab6810df53ef261b0b9060405600f2983cc4b9c00a78cb56d884ffe0bbc7  ./docs/en/desktop.md
 3cffb108cae6f94cf2e4be33324b5147707e663ee48346343ed98f7ca3240388  ./docs/en/devcontainer.md
 7e89d887766b507aa3d1e621a2b4b8e29c5aea717ed6a7bc0eb101af2b692126  ./docs/en/discover-plugins.md
 ebb5537f68ba5e67fef5d85a13695af00cdca7eb2a09e3662fd260a57c5ae7e9  ./docs/en/env-vars.md
-9fcc85085f723df6d5eba6bf553eb6fb7e1f49429e1808d023b1800ca07effd6  ./docs/en/errors.md
+d392f4aeb7a709df96db1543297231df1ca106ab1207abb6c30207d0de42bc31  ./docs/en/errors.md
 1d47b1a92b73cdcd987729fc1b0117a9fdee1db60565d27e51491aae4fda860a  ./docs/en/fast-mode.md
 8a9841603ae116de35cf58c8538d2eec539855a0ddd45701541923d455b1ce04  ./docs/en/features-overview.md
 e7cbb1cce99777ef4062945b2ddeebfe9f513c8fb3502307b1be85705a1a74ef  ./docs/en/fullscreen.md
@@ -75,9 +75,9 @@ e7cbb1cce99777ef4062945b2ddeebfe9f513c8fb3502307b1be85705a1a74ef  ./docs/en/full
 d1ed30854d47fa94d4b2994c890a5e1dca68878cd7e0a2711ddd733f5da07e51  ./docs/en/goal.md
 a0dae25acfd3a04f8101d2d1f37207543e8aca27b7a9c5617c3c5e15f42544b8  ./docs/en/google-vertex-ai.md
 66a91816e32f73349bd2dc3a7c1c15ddd4988473f528306a98ac1c5729162af7  ./docs/en/headless.md
-79db675e74ff276fca33c20c1a643bfd84db65d9c33f6813a89aeacc50b74402  ./docs/en/hooks-guide.md
-33894d23c55e2230404d959089f35d5b53692e517c2ef31f0e1e8f4f6b21836b  ./docs/en/hooks.md
-dd22815dcddc112848b4a8720da11e2f4cb1be86ab850fd3321f99145a282507  ./docs/en/how-claude-code-works.md
+a8ceb5abdb5aa2fb41bc5b51bf92ec451e0334ccc21de31ee45ba9d1a0552085  ./docs/en/hooks-guide.md
+93098c40e522c37d2f7bf8a023203a546a6f04accb0cdf339fdc317f845ff49f  ./docs/en/hooks.md
+1d07e9df0b6317c8122e4e4d99e1c5ceb7cb45bfd85b40a90b7659a6c4ab17be  ./docs/en/how-claude-code-works.md
 5ec4b05955083e831a05d077437b6df5487d41471cef0640c9ae6ffe483dcf13  ./docs/en/interactive-mode.md
 30cfc860e00d3e221b3029e17d2520fd6212f03be4e704fb16d21454b789ffe6  ./docs/en/jetbrains.md
 e87779ea02a243fb9521c4913434f4de04a6b36f54864ab50d264a1c732b868d  ./docs/en/keybindings.md
@@ -92,7 +92,7 @@ b627e03075f645d06784e1aab274bddf6b5b2ff21f34969e6735faeee7a9760c  ./docs/en/micr
 752ef9ebcbf0c2f7b72ee670291152bd1940a6dad40396e0695a6f88721d46a2  ./docs/en/output-styles.md
 0b2b7b3ba8f1a3d7874bf424861200b6a0f7da563b08076889e6c18187424e96  ./docs/en/overview.md
 8e63478de7a276d31f355cf8a1f2527fc281ac11f280146fc533c7f6fd43f972  ./docs/en/permission-modes.md
-74a265cf4c28f995635348d01569c50ecfede71487ef5b28639af1af63887da3  ./docs/en/permissions.md
+a222863ce985305886e1ba29fd8a72d6d7a20449fbf98c3ef4ef95258b281f0d  ./docs/en/permissions.md
 f31b7e7501ea6c391655a77d99e5108e6f11b1e8399e177c30515722d809fd22  ./docs/en/platforms.md
 3fde6d01fcfb71f5f17826e0a8a04569f0b8ae93f4fe462bf3c36ed5fb0957e7  ./docs/en/plugin-dependencies.md
 e4f31d5ad098c9a9a9ecb39c3ec5e4dad1490b31d8e0bec6437667983f7482be  ./docs/en/plugin-hints.md
@@ -105,11 +105,11 @@ a8a6a00716aea8ff07d2f9bf0b77f9c02d89b9c8f35c047ed52989827f16a29b  ./docs/en/quic
 bdd69c50e1b1371918ea39d1f8b6c15895e591f851730b35f3840db502e0cccf  ./docs/en/remote-control.md
 27213e9ed746e4bde09615714f53bf8e5478c2d6948ee0bdf4eae1df96f73606  ./docs/en/routines.md
 a81ce454be65350325ff0ae303695dbbf7ec444d0ebe1f37332f8641c804190e  ./docs/en/sandboxing.md
-534218c7e41c787321dc1795780f40526311e99662746b3df6fbe9e060f91bf4  ./docs/en/scheduled-tasks.md
+aa581e159df1905ebe40e4f52ad465654f1563f2e29f3f30aae81b33c6203abc  ./docs/en/scheduled-tasks.md
 eb2a1c81108dd890084187946ff961f733d9ad82589eb9b96f93630f498bfae5  ./docs/en/security.md
 4dad5ea0d5229a2cd574ade6b737ae16021f3f2aaa621c145587393857fb9bbc  ./docs/en/server-managed-settings.md
 b9990b1bf0d56f35a0c1d02e80b552a5606072a4e2048808b71d26f77c72f26e  ./docs/en/sessions.md
-9732de9e4eb6200c439e2e4aaa34f7db919d2168a5077634dd51a8ec55b3d937  ./docs/en/settings.md
+57ac664a6fcc19d1a8d5e302b6e981d976a9515d8c3ef7caac2dc2e8555472b0  ./docs/en/settings.md
 9e6d4fca383caaa8fef089c13f91915b7fc2d64d7721e681aaa5dc2a5f35e6a6  ./docs/en/setup.md
 aab41bb37db961b305fccc1e9dddfd4b501aea19483586cbd956d636549c56ac  ./docs/en/skills.md
 21114ade74a5f8d40399e66faa0fd6b88ee6169ab883ebfa207c9d26ed40f741  ./docs/en/slack.md
@@ -117,7 +117,7 @@ aab41bb37db961b305fccc1e9dddfd4b501aea19483586cbd956d636549c56ac  ./docs/en/skil
 d67cd8b4d24c8dacb161fbff2bff7888e0a846dcdd77bde0a82bb0341d2e8d84  ./docs/en/sub-agents.md
 3a475013710a2c7f7651977357165b4cbed29541cce956b59ffdff3f7f1be869  ./docs/en/terminal-config.md
 3b4bee8a74c0cc939186efce8d26ef9361e12289e4e851cc88c315a3710147ac  ./docs/en/third-party-integrations.md
-1031229387e6b99fd7f4e097c6a1f90534b6fa0140b887fab88e96c5cdfc07df  ./docs/en/tools-reference.md
+02146fd2aecd818a22487ea696c698321d71b7ce680b9c1362c7f1374826da02  ./docs/en/tools-reference.md
 c8963a100fc5afc0b5ae0221f1d7f5fe569eea1d80a6f68d6ffc28d9ffda9cee  ./docs/en/troubleshoot-install.md
 8e4d9ad57a60beac2a5e5d929c32a42891a950497f34203044af54329d24b899  ./docs/en/troubleshooting.md
 14dfb476fe7e2d98b28f23da36a2237e1a88aec8b231806242acb6c793bcecfe  ./docs/en/ultraplan.md
