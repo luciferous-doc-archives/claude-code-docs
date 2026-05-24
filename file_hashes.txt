@@ -47,7 +47,7 @@ a60e9d04b530c8ba74e4ee597e0dcc5d1a4ffbe59782ac70922220a6ffbce521  ./docs/en/clau
 d3d03851ea0e5eb5ed597d633f0cceaf5f308f5b2a9a27e228951283e8b9f075  ./docs/en/claude-directory.md
 0431b488da21e29ff7a55ed81438f06e92c27aed322c426c6b20de216e961326  ./docs/en/claude-platform-on-aws.md
 cb47fedb070f224ee3adcd3bc4bf022cd1eadedf437664763099459371b56db8  ./docs/en/cli-reference.md
-549a0e2a57d30028c1ed52dba5de1bb712f26c1bfeb845b6cceb35a9dd57f85c  ./docs/en/code-review.md
+d0b6e4525a0b7f13fb0b83a4f37be2c148750b3cca0cdbc3174339cf98c32578  ./docs/en/code-review.md
 829aff2ffa6761c1c0a62cfa6539aaa8f6f551ecbd0e70f0f8e9e74bc4f5c48a  ./docs/en/commands.md
 c5c94eb80b81d8298b2fa6bcdcbe5b6cc77ce969c31857c9964287e54db46d2d  ./docs/en/common-workflows.md
 14f4728a03fac9f77a12588acf76308f1e2fc8b271c7d7af19b05c07b69d2f9e  ./docs/en/communications-kit.md
@@ -102,11 +102,11 @@ e4f31d5ad098c9a9a9ecb39c3ec5e4dad1490b31d8e0bec6437667983f7482be  ./docs/en/plug
 f162c7b46b69ea7d7769560a443dc1ae9732eb7e02b670daec06fd3fe91ccdd3  ./docs/en/plugins.md
 11b72e26d8ad38ee7bd63a49cf3060a250ef49580583e7173a60f767f3b5f5c4  ./docs/en/prompt-caching.md
 d59bbc4216bf34945dc0cfdc22b1c9385c92e9a6ee6e6c09b1c9cfcac1d8744d  ./docs/en/prompt-library.md
-a8a6a00716aea8ff07d2f9bf0b77f9c02d89b9c8f35c047ed52989827f16a29b  ./docs/en/quickstart.md
+aafc86695c617a74b9c162348be733ad167fbaa54bd43ec5e3313f7dcc0e70bf  ./docs/en/quickstart.md
 bdd69c50e1b1371918ea39d1f8b6c15895e591f851730b35f3840db502e0cccf  ./docs/en/remote-control.md
 27213e9ed746e4bde09615714f53bf8e5478c2d6948ee0bdf4eae1df96f73606  ./docs/en/routines.md
 dce82aec2ed6f2e1be3bec651bc16f4daa5ab9489d2c62f8564798e2c4b30870  ./docs/en/sandbox-environments.md
-3253fc8f179224b5ec083e7f06cbabdc0abfec5271b908daef76d9bd68125e3b  ./docs/en/sandboxing.md
+68f28a19e1e2085b1684e22093413eb4799d22920e42f8584fa4efccb39cdda7  ./docs/en/sandboxing.md
 aa581e159df1905ebe40e4f52ad465654f1563f2e29f3f30aae81b33c6203abc  ./docs/en/scheduled-tasks.md
 3cd0e8581e8058b18551d7f1a92bd9652720a6cad53bdbecce02df291906f0db  ./docs/en/security.md
 58e73e9892fc14a846ca6890c8e29057bcb0d90859218b52a32be52cd2563222  ./docs/en/server-managed-settings.md
@@ -119,7 +119,7 @@ b9990b1bf0d56f35a0c1d02e80b552a5606072a4e2048808b71d26f77c72f26e  ./docs/en/sess
 bc6eb30295186156688266922cdd5c8844c6437df564dea3d11dec6b1a9ac048  ./docs/en/sub-agents.md
 3a475013710a2c7f7651977357165b4cbed29541cce956b59ffdff3f7f1be869  ./docs/en/terminal-config.md
 3b4bee8a74c0cc939186efce8d26ef9361e12289e4e851cc88c315a3710147ac  ./docs/en/third-party-integrations.md
-d3439158c358bd6850dc1df0bed57289e5bdd42c95e1d6998aa1ad85a623a39e  ./docs/en/tools-reference.md
+51230ece36ac03ef49406199a146bb76ea4f9a282ed4d86cd34c6e34fb13f038  ./docs/en/tools-reference.md
 0952f40bcc0a8fefb43e36b0fbff2815ecdb28584b2f0cfbfc2eba46a7ef7dff  ./docs/en/troubleshoot-install.md
 8e4d9ad57a60beac2a5e5d929c32a42891a950497f34203044af54329d24b899  ./docs/en/troubleshooting.md
 14dfb476fe7e2d98b28f23da36a2237e1a88aec8b231806242acb6c793bcecfe  ./docs/en/ultraplan.md
