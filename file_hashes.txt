@@ -1,6 +1,6 @@
 5a29743d9319ad15f8a637a99b7624dedc648cee948ddeb6e86634e5dfd39f85  ./docs/en/admin-setup.md
 70846baf1aaf6c9a42a77f5eda0ee6711a53e04fb64c130f8ddd9b7cdba9f556  ./docs/en/agent-sdk/agent-loop.md
-2a6e6fb34d8bc1992eea1ad4f53756944a47f790d29b8261b2e6245c964b75c6  ./docs/en/agent-sdk/claude-code-features.md
+1e09de57a16afb31cf70f5ee7ab1bba4d40057d0805b3770d083afa0cbdb7242  ./docs/en/agent-sdk/claude-code-features.md
 38f9bf5c22dd314f31a6dbeae64bca03aa1d1ed82b0d4aab887b14ea20b431d9  ./docs/en/agent-sdk/cost-tracking.md
 5d72029e2ffaefe3c7962fef5d706b2ed99c0fe1c4caf5ce8732f66e469bd8de  ./docs/en/agent-sdk/custom-tools.md
 1f8256a7ac59bfec971e6f67e3166437b63a8df006eb8406221280b2ae9798a4  ./docs/en/agent-sdk/file-checkpointing.md
@@ -13,7 +13,7 @@ b08c10581e193c9ef18ad5c1ca46997529c82de82c26012a229279372521798d  ./docs/en/agen
 0f60f0ce8340354476d6a42720ea84231039b554446c60767a2cf3b986befcb6  ./docs/en/agent-sdk/overview.md
 872080ab9adad460650a091684c0cf5414261842d91a8a7b598733c3b7edfc54  ./docs/en/agent-sdk/permissions.md
 a7228a0d4a361374980f8080843fe7d9ae3fd6ea0836a3051a7065bb6d7ca3e8  ./docs/en/agent-sdk/plugins.md
-97cfa2da7f6d5a6862b6a082b2461af4f1a0abe224d271fb900202fe86f2d8f5  ./docs/en/agent-sdk/python.md
+484bfef6b6ea622a7997a69e015f669cb741d4b9d01725fb2d19680aa93ec532  ./docs/en/agent-sdk/python.md
 8658a765c682d6b5a83042c59f81c5ce6e3a8941f35170e7975ce11a2768fe06  ./docs/en/agent-sdk/quickstart.md
 2a461c7caf4cc2d5352db78389442e8f99fff389c4d4d28a2074eec0095457cf  ./docs/en/agent-sdk/secure-deployment.md
 a3b4abef343de5806b608b9b5b60ac7cf5579fc0329009d27d2b3e4a2b5bc84c  ./docs/en/agent-sdk/session-storage.md
@@ -27,7 +27,7 @@ aa808802fb24f315da6f2d5b138bdf7cc940b2df851309010b0e6836d788fc7b  ./docs/en/agen
 9be74c81fd6914b01e8883ed9785a5f48afc299810ea8bb3664aed7e1b241ec5  ./docs/en/agent-sdk/todo-tracking.md
 4e48740f2815b81b30f4d5f90e78fc5b554722cf853881210281bc405396afb8  ./docs/en/agent-sdk/tool-search.md
 f6a71545c9c84bcfe62470b91591118b76ef4bd315438503e7a18603209c7ad8  ./docs/en/agent-sdk/typescript-v2-preview.md
-b2af48d558896c7d5fb3a948fe6d7c24e25c4b92619ce0c4d3f6d215f471f20b  ./docs/en/agent-sdk/typescript.md
+1cfd15b301177c31c213c75e73749052d68631cef179c45eca260f2a7ed33883  ./docs/en/agent-sdk/typescript.md
 e3498a2643abd10b9bf69b20654059fbb2c16813608cab5ae7b4ac990f3955b0  ./docs/en/agent-sdk/user-input.md
 8f0248764ec8595fe8f23d3bac3ea2fffdaba13a1ea02805ca6963180614fa74  ./docs/en/agent-teams.md
 c9461e7f96b7262795de612ee7100ed80ec8e8c1aabc039977257c3cd740e9bf  ./docs/en/agent-view.md
@@ -38,7 +38,7 @@ f02bba36390009b277adfc1b14c9d6d1d34fb2f9490ecdbabe65535971fc8aaf  ./docs/en/amaz
 e29f7effcdd8eab7bac64dbad13d48f8ad61f9a296d27328544f39dcc37ad9bd  ./docs/en/auto-mode-config.md
 d762542534b391bde4df3ad61b5b91da73663bb6b5fb0b4a202d8bfda5e3d932  ./docs/en/best-practices.md
 c3574420815a3daae4062535ff3db41b5be6dd0c269cb5e4b6d500dc615ca176  ./docs/en/champion-kit.md
-f659fefb280d0272e8ebfd34b72d49483bad4e6344786d238004deaabb25b0f4  ./docs/en/changelog.md
+9ffec20b2039643af61b6c7a43496f70443a931438e107a3653c3d4a08364687  ./docs/en/changelog.md
 a91778c7c3a4cad9ce6692fea09a583d006f998680285f81996ce2b08c4a074e  ./docs/en/channels-reference.md
 e586c028ab514a70413eaf4fe1fb654b9b1ccbc22af80a092bbb1161367632c4  ./docs/en/channels.md
 4056d43fd208398998e2e54d26b9d3913ebdc1a12de7be3538ee0158d94cb88b  ./docs/en/checkpointing.md
@@ -59,9 +59,9 @@ c5375cc0f8d983fe2da468d638d105e2b9213eceb5cb2c131aae59f32e25acc1  ./docs/en/comm
 66330ea9ddaa6e261d3b16db724ea1a77920318925e3ffed45c6c121004f073a  ./docs/en/deep-links.md
 08f487719c2ed5f53d32ee96cec84bcd02336728bc5f452c59355dc2ca3259ee  ./docs/en/desktop-quickstart.md
 d09f4a7060da4301e4624558c9335ae8ad74c66b20b6e12cf02bfc4b1c248d68  ./docs/en/desktop-scheduled-tasks.md
-160fa0e6dac4c2e5164846d6568cb64c87ddcf7932e90f987250e9dd2539ade9  ./docs/en/desktop.md
+fbd3d6997813eacd4ecdf5b8963d58c34e939273c8172a21993d3ea67c932d48  ./docs/en/desktop.md
 f806dba4afa929c1654a728a1b3276431eec3abcdde7b538db5caed215a7b82a  ./docs/en/devcontainer.md
-b31ebf5d11f8245000b34a2f5bc4aaa4ae8967e9a135c0588153afe9b75a2188  ./docs/en/discover-plugins.md
+74efec757c4a51dca5aed8bcaa028d9e02e48d843fbff8e40fbb299fa2b086e9  ./docs/en/discover-plugins.md
 c331afc69c405eabb9c907b729ac7989402c908fd0e379429ebec39166efa2c8  ./docs/en/env-vars.md
 8f76812bf5b8989830545ac405dda9db4dd58a7c4c407c5de50d05c3942aa158  ./docs/en/errors.md
 1223f48e73fb6226bcfeef9856a9458127db75e967e24c98ed2504069203b17d  ./docs/en/fast-mode.md
@@ -74,8 +74,8 @@ b3f394765f4d5f7d090cfc98ff1fb17cab77eea99cec5b0412d841a092a9ebef  ./docs/en/glos
 d1ed30854d47fa94d4b2994c890a5e1dca68878cd7e0a2711ddd733f5da07e51  ./docs/en/goal.md
 4695086b4a9261643f60660367b12f35b0d53ba2f2313e9b79d34f83cc35bdaf  ./docs/en/google-vertex-ai.md
 442ce41ad21dd9cc2b074c31f96b0f93daee518e946b68f8d26964592417409a  ./docs/en/headless.md
-d71d0e36b19ce6b5d45927139f784f804771b06184f38b9b507559486b24e267  ./docs/en/hooks-guide.md
-daeced051b0adf891906e267d1db16fbb5159ba0f7cf2b0963a3e160306ceac4  ./docs/en/hooks.md
+300a3c5341054b9f5bc38109eafce3b5097305f4f7469b49de745dc9b7e21073  ./docs/en/hooks-guide.md
+ae5dbcb50cf71242d8fa92187f61583391b666512ab4b30c3db042cb808e9287  ./docs/en/hooks.md
 1d07e9df0b6317c8122e4e4d99e1c5ceb7cb45bfd85b40a90b7659a6c4ab17be  ./docs/en/how-claude-code-works.md
 4ab7591234fb2e7ab1497f252d2c76faa49c2fb2502c7ce0e4732892f03ef6d1  ./docs/en/interactive-mode.md
 30cfc860e00d3e221b3029e17d2520fd6212f03be4e704fb16d21454b789ffe6  ./docs/en/jetbrains.md
@@ -87,7 +87,7 @@ ce1c6374458d4cc95cac62f1fc0e0c22806c54108ce387387d0030b425af8272  ./docs/en/lega
 77d4075c7a29ded96f38e6bdfe3e8dd58c64c3bbed45934761bc226c34daac79  ./docs/en/mcp.md
 c5dc0aecc48d27f0ce98d4c5d87c311a251aaa419e6dfd403f351f225e7c9eef  ./docs/en/memory.md
 7283a912ed584c1f4f7638f12eda6cfcde53cc0553dfdc2d5c78b3d560ec931b  ./docs/en/microsoft-foundry.md
-9524f4d49b06a7c7d6d0c36e69ad0480839526e3bf31c08316f4aa416bbf3333  ./docs/en/model-config.md
+4f25f6577dc3d2a55f10c2432b36b29d795a80db8e4bb3eb664f35650181f53e  ./docs/en/model-config.md
 34bef140e8ef72a735c3877558b8792cd1bbcca7b9cf9b965ce9f87330253f1f  ./docs/en/monitoring-usage.md
 24f1fc26e6f1db6abf79968bbf96d8a178f1d41b9264340dcc976846a5e3421d  ./docs/en/network-config.md
 372651ced9743306f52d8e63206a4d120b915cdc9fecbf8b589400916b7b8ef5  ./docs/en/output-styles.md
@@ -100,7 +100,7 @@ e4f31d5ad098c9a9a9ecb39c3ec5e4dad1490b31d8e0bec6437667983f7482be  ./docs/en/plug
 7366bb344b899c7be72355c5f94406dd3bd3a47a854caa35c35e1e506a4f2f37  ./docs/en/plugin-marketplaces.md
 9c2c90692bb36112e4387585210901d51c4017b10014e27b9bc6857a39c94248  ./docs/en/plugins-reference.md
 477e046cfd3c180df95d419d74e5342850dcb998028a1fe8648e812c30a520aa  ./docs/en/plugins.md
-12bd88f8faae38276cb09340ef9a6196ff3ddef1a831ff67a7636f74b6602ed9  ./docs/en/prompt-caching.md
+dab2d1f33ee3f06a2469e16370737bf9de2da8baa0c9b3a2a9e6de7172d80adf  ./docs/en/prompt-caching.md
 d59bbc4216bf34945dc0cfdc22b1c9385c92e9a6ee6e6c09b1c9cfcac1d8744d  ./docs/en/prompt-library.md
 aafc86695c617a74b9c162348be733ad167fbaa54bd43ec5e3313f7dcc0e70bf  ./docs/en/quickstart.md
 9379410a35a38a70b2b7883639ce88e714b50da015a1be28ed42a979e92f8587  ./docs/en/remote-control.md
