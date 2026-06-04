@@ -13,7 +13,7 @@ b08c10581e193c9ef18ad5c1ca46997529c82de82c26012a229279372521798d  ./docs/en/agen
 0f60f0ce8340354476d6a42720ea84231039b554446c60767a2cf3b986befcb6  ./docs/en/agent-sdk/overview.md
 872080ab9adad460650a091684c0cf5414261842d91a8a7b598733c3b7edfc54  ./docs/en/agent-sdk/permissions.md
 8975ffbfd10b03e66e6677c900bf1b0858f6b15158eaec9f031bc21fe400eb75  ./docs/en/agent-sdk/plugins.md
-a585b4ea25834cfe6274b6ee07b90f6d6a6f78b8ad69b8cd601f8b723add9584  ./docs/en/agent-sdk/python.md
+2eaf97a2d476b9543dd374509979da6d7b9ea7242938f0d83a335c8c55955075  ./docs/en/agent-sdk/python.md
 f7237f7cc6fac76bb124ccd47efff82eceddf406052315612e0c0231fa042801  ./docs/en/agent-sdk/quickstart.md
 2a461c7caf4cc2d5352db78389442e8f99fff389c4d4d28a2074eec0095457cf  ./docs/en/agent-sdk/secure-deployment.md
 a3b4abef343de5806b608b9b5b60ac7cf5579fc0329009d27d2b3e4a2b5bc84c  ./docs/en/agent-sdk/session-storage.md
@@ -38,7 +38,7 @@ e17bad12755d34452f9c7b2fe3a7ad6fe0f27cd59761002dd55792b37ca501af  ./docs/en/amaz
 df287a50cf692cb34de6dd30ea1580172048f7882556b87e7595ce1655b678a4  ./docs/en/auto-mode-config.md
 d762542534b391bde4df3ad61b5b91da73663bb6b5fb0b4a202d8bfda5e3d932  ./docs/en/best-practices.md
 c3574420815a3daae4062535ff3db41b5be6dd0c269cb5e4b6d500dc615ca176  ./docs/en/champion-kit.md
-5e973821af4a7ce69cf6a0373fb4d4094648c18785c1c544f1b88e449dfb421b  ./docs/en/changelog.md
+174cd437ecd742942184f0102ddb36728cd509806dc8dfd70297c033f5d746f9  ./docs/en/changelog.md
 a91778c7c3a4cad9ce6692fea09a583d006f998680285f81996ce2b08c4a074e  ./docs/en/channels-reference.md
 e586c028ab514a70413eaf4fe1fb654b9b1ccbc22af80a092bbb1161367632c4  ./docs/en/channels.md
 4056d43fd208398998e2e54d26b9d3913ebdc1a12de7be3538ee0158d94cb88b  ./docs/en/checkpointing.md
@@ -85,7 +85,7 @@ ce1c6374458d4cc95cac62f1fc0e0c22806c54108ce387387d0030b425af8272  ./docs/en/lega
 9d4e000cd9c12de9a2507275ee0409202abdb291be6a6738bc059af913839682  ./docs/en/llm-gateway.md
 5b64c78cb7bd2f86ec3771964df33f4b112107c899689e7c86e2dc85c8d9d903  ./docs/en/managed-mcp.md
 4214a47baf5ed15cdc22b19bc261ba73873b82c1e6dff0515d4d32ecb56d64db  ./docs/en/mcp-quickstart.md
-a6031469b08fdb57755aa01a6f0b336723252a008d7362725fe5acdcfa07ad83  ./docs/en/mcp.md
+a93fbe3c351c182680fba878bfb9e88eb43ec9f3552dc2e4f4d875b36a6b2d4a  ./docs/en/mcp.md
 c5dc0aecc48d27f0ce98d4c5d87c311a251aaa419e6dfd403f351f225e7c9eef  ./docs/en/memory.md
 7283a912ed584c1f4f7638f12eda6cfcde53cc0553dfdc2d5c78b3d560ec931b  ./docs/en/microsoft-foundry.md
 4f25f6577dc3d2a55f10c2432b36b29d795a80db8e4bb3eb664f35650181f53e  ./docs/en/model-config.md
@@ -122,12 +122,12 @@ ac720bf63d8ded1aa7bd0b2f4249b725e531d272958ce0d60016b5737bfe6976  ./docs/en/skil
 a1e41a5439a7c85b4391e068cebfd4bb293bfcd1f15d126fe6b0a0ce9b26bba3  ./docs/en/terminal-config.md
 3b4bee8a74c0cc939186efce8d26ef9361e12289e4e851cc88c315a3710147ac  ./docs/en/third-party-integrations.md
 3464d4368b3a4d65b965a617a4de2b66c11d8d8ae8aef2189a435e6bf35d7e72  ./docs/en/tools-reference.md
-0952f40bcc0a8fefb43e36b0fbff2815ecdb28584b2f0cfbfc2eba46a7ef7dff  ./docs/en/troubleshoot-install.md
+b084f58db5be18f689833fa57bd2827e64bbc19b21106361401ef251718cdf80  ./docs/en/troubleshoot-install.md
 88a2dfd4dbb45269773cdd3f313825c957a970860f76cc755f1c01c2feb51133  ./docs/en/troubleshooting.md
 14dfb476fe7e2d98b28f23da36a2237e1a88aec8b231806242acb6c793bcecfe  ./docs/en/ultraplan.md
 11a5b26e86327b4c8b15a1b24ed0dcc88eee94725a4ae058ae816d81da905d7c  ./docs/en/ultrareview.md
 a5f1efe9c1e4d8184012e2a3280cac2695442995d778fbce4200694a7a49ddfb  ./docs/en/voice-dictation.md
-d91903216e5d11d34f4b0db7b679a61c83f15036b2481ee42406b546c67ed819  ./docs/en/vs-code.md
+3f45a2a99aa518e7064e5bc0a1d981a783e905a9454b0eed8e94f0c3ac1f5154  ./docs/en/vs-code.md
 bd880dae67b68bcf088a0b74bacb3865f8debd55a4a3e88be48d21213bd9a4c5  ./docs/en/web-quickstart.md
 e7a5c4b655864da37137de29d32d1b778db324a6eab8b7e3028e313861cc5141  ./docs/en/whats-new/2026-w13.md
 41ee7c631497425f91177c72853d564283bffcee0ed96fb7245a249eac678166  ./docs/en/whats-new/2026-w14.md
