@@ -115,7 +115,7 @@ f184f5b7cc24d247fca511028a1c7d1e40db9101ffc24ac9674d27f293c9c5ab  ./docs/en/secu
 b9990b1bf0d56f35a0c1d02e80b552a5606072a4e2048808b71d26f77c72f26e  ./docs/en/sessions.md
 61229cdfb919b8a30e07a46f5b5fe560ee9b69fab9f11d7f61200bf958d9d784  ./docs/en/settings.md
 b1242497ffc022fca48e72534fecc1d4159ab2b0d9f57bf8a9c7d913f4622367  ./docs/en/setup.md
-66eff8091edc01275e41a5c1c045073fdfbc5efc1cc0a64deaceee7d8f2d59eb  ./docs/en/skills.md
+49e578de5a478bdb7aaf245a1c37c2d7259b6c73a16b9c94da56e8c9579b0142  ./docs/en/skills.md
 21114ade74a5f8d40399e66faa0fd6b88ee6169ab883ebfa207c9d26ed40f741  ./docs/en/slack.md
 4f1178cd373a97c799eebcf81f42800881e752a572e8954ed290acae13432400  ./docs/en/statusline.md
 35d588529e981c1fc3da8aef7fdb21ad90b7abbf6e5831ea5d13b111af168665  ./docs/en/sub-agents.md
