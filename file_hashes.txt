@@ -89,7 +89,7 @@ ce4d8245ea18e16b443b2d36ec9d065bdd9cc9827b63cf58b5a4ec4fbf6d4b3b  ./docs/en/llm-
 4cfba47a5a895280039dc7a1d0d5bf14dfe2edca54f833a7d933f6390b0e217a  ./docs/en/mcp.md
 0b06aae2faac361b5b34ab0e372b64c3898c75334f8867b44154cb6f0dbdaa84  ./docs/en/memory.md
 bfd2d9462375a5e6bc5e05513a428cf70846e599be63f0599e3c2e86e6cf2265  ./docs/en/microsoft-foundry.md
-d190ad92685d0884abe410682915375028dea0af7b87026e077375127d824d56  ./docs/en/model-config.md
+80ef9fc089b0c1fffd00b0770944a7dc1ad286a8acd4da71baf1c47d101ac2f3  ./docs/en/model-config.md
 af1faffce04b17ebbfcc6233e7b0dd893dd8470ef52e7be6cb503d3d2ec55b68  ./docs/en/monitoring-usage.md
 24f1fc26e6f1db6abf79968bbf96d8a178f1d41b9264340dcc976846a5e3421d  ./docs/en/network-config.md
 372651ced9743306f52d8e63206a4d120b915cdc9fecbf8b589400916b7b8ef5  ./docs/en/output-styles.md
@@ -114,7 +114,7 @@ cba70f0391eca6c06e9c5d162324ef43bacef6b62c66234b2267d9d03d92db63  ./docs/en/secu
 fe52bd8f7c021b5f2390f4d401218ed14205f43fffadae4925267c9c2e89325f  ./docs/en/security.md
 c1ad8b720782fd68765dbe32ca2822d3d19a5af7159df4f0b16b7679f1513745  ./docs/en/server-managed-settings.md
 418501c74bae71e10822df58d02e55f236d1063159201f08c897d03804dbcd9c  ./docs/en/sessions.md
-cfed2043167ef3006b896a19b2c0ed184652ff0abfe656bd1ada8296fbfc2c2a  ./docs/en/settings.md
+ee97b7fc9a2de8685087f9ecdd3bfcebf7ac28072d09eea1cebb40ca7d8b7440  ./docs/en/settings.md
 7bf182b155471d4354fb5df14b5adc2aac348309e0a6ea1cefc188416c87bc04  ./docs/en/setup.md
 d7d367c7d0040ba05b96688511727ff9456a9057f22b417c5e1f279b7f6b08d7  ./docs/en/skills.md
 21114ade74a5f8d40399e66faa0fd6b88ee6169ab883ebfa207c9d26ed40f741  ./docs/en/slack.md
