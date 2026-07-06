@@ -64,7 +64,7 @@ a6d66f6299ab4a8cf97b8bcd696d0d59754c7f8cec9146b2ddf18c5f7ea6f6bd  ./docs/en/cont
 03aea51cd2fbd5ac2632f0a49093c0e96fbc22f027db6a71fdd4bc43d0f84210  ./docs/en/data-usage.md
 b33575feaa0bab2924b52ed1a99a3303af317dd7f68e8b8c5c4fd144660f88d8  ./docs/en/debug-your-config.md
 39f933c2b9116195c76ebb7fccb8e77775ee8b637da24052c7fe1157601387af  ./docs/en/deep-links.md
-a3bbbd9211e5c40edf780cafd3f2eabc32cceb747cc02fd6595060963f23e6fd  ./docs/en/desktop-linux.md
+686132e59cf116bcdb9ed5b2cf5df20128bada3c2adc9b0a980517bc0b3b96d3  ./docs/en/desktop-linux.md
 39af894ebb8e8792ff410cb634f12a3cc7a5729ffe3518d8f6ec8d5cbac3e44d  ./docs/en/desktop-quickstart.md
 d09f4a7060da4301e4624558c9335ae8ad74c66b20b6e12cf02bfc4b1c248d68  ./docs/en/desktop-scheduled-tasks.md
 0b760710f1fe6d22f1dd4f0d02155f280da85332d5c9e2d7a5ce1beb8b6a651b  ./docs/en/desktop.md
@@ -78,7 +78,7 @@ c19d3d525555303a52cda70218499e5f039eae1a7d6235c6be908f28cdac8f58  ./docs/en/feat
 bda706e08c1574abfd2727ae541caa5247f81fd44edb3cbda2ef3b8de558a142  ./docs/en/fullscreen.md
 8b7aece8c7e3b2c11cb3988b23774cd04989664136c161f8666fa4af016d9cfd  ./docs/en/gateways.md
 d8fd2c65e27a9d184b74bcc5214179883ace40fef2fa50bc212e00bef714292b  ./docs/en/github-actions.md
-bef08b60b066c929349644197a8d4f8786b6314c6e07087051b19b9c4703e141  ./docs/en/github-enterprise-server.md
+0dd975d28f4433bd64124919b43062244f0fecf8e6413479304acf6bd1d8ba7e  ./docs/en/github-enterprise-server.md
 50229363728305765045171e92e03bf69dcf7195fda93b7a4e1e1885beb270aa  ./docs/en/gitlab-ci-cd.md
 ff42daf04ec3f4f82c545d841c0af8fcbeeefbce6cc26664647df6a9e0b25e9c  ./docs/en/glossary.md
 efd54e63b3a2e3d977e35a6345c7e98d77c9845ef3be2596127a294a3eee990d  ./docs/en/goal.md
@@ -128,7 +128,7 @@ fe52bd8f7c021b5f2390f4d401218ed14205f43fffadae4925267c9c2e89325f  ./docs/en/secu
 ef7157a107409cd5b2aa7b210ef8ae0b54efd2171211902170bf0195aa6f5753  ./docs/en/server-managed-settings.md
 9c3d8fcf25854f820a0660c81283c229d1fe64a8289175ae8e975385354fcbc5  ./docs/en/sessions.md
 fe5fd5f24f0e667be73c8dc25c8498afcf8de64833b202cff65759a2ec6bbfae  ./docs/en/settings.md
-d1bf46079eb333010aad1ece02a402e643ceeeabfdeaca08a58a9ea30d606943  ./docs/en/setup.md
+5eae7c9c4d8d878db74629125cf749a0430eec439da1ccce9c305ef4c1cbdc1b  ./docs/en/setup.md
 c070b34a20a7410285d6f2b8907cedb138de3baf2aaea4a87821fbc1a37381e2  ./docs/en/skills.md
 89423c1dce0090ba53e9e48d7aea6ece120a9fec171c568222586cc5ec0b074d  ./docs/en/slack.md
 45f608f8a57962d383d68730141d3fac72c9a14f13ac894cdc1184d8d8292eb2  ./docs/en/statusline.md
