@@ -41,7 +41,7 @@ dc84be935b175bd46522b061b5508986736849f66bcec7701276a38a56fa88fe  ./docs/en/anal
 a47d532e6e308a14d951132ee33578dc4e640cc0df6b8be79895cdf81e46d459  ./docs/en/auto-mode-config.md
 4feccb5c94ada554ac8f9c559611b84aa221bcf62121b843876b92aed2612630  ./docs/en/best-practices.md
 c3574420815a3daae4062535ff3db41b5be6dd0c269cb5e4b6d500dc615ca176  ./docs/en/champion-kit.md
-0958d3652917127528447713eeb68a1f7d63f86e418fa6b7fe95e1f5d8b6b741  ./docs/en/changelog.md
+db9342e4baa525eea914128706442a9d8fc0fe230af73ffa246238139c8a1d68  ./docs/en/changelog.md
 905c590b5cb3c3f3efeac10f05ce7b9366fe78ab956a2e22c0666e9b3a8b7e29  ./docs/en/channels-reference.md
 4c1990a45da18850c2a7ce638d827bde8650e93962ef60c357664b8bcfcc01b4  ./docs/en/channels.md
 2f0ab38cfbb0fcc855af5b30d625781b597ffebf8ec2110aa4614b4870fe5782  ./docs/en/checkpointing.md
