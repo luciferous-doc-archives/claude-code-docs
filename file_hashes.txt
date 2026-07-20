@@ -74,7 +74,7 @@ c41fc802c86452fd070af0eb8351ce8785beab102b886fe55c57b5ba83737afd  ./docs/en/desk
 49fd24b5bc9cc078bf3f4f75f6e068d4b4f61443c9f4c744cb34eb31ea342288  ./docs/en/devcontainer.md
 006e0bdcb18b30960aa220c7f8a1dace7f42d494ea3204d367ef90b69540f54c  ./docs/en/discover-plugins.md
 ee1188d564510380817025e386d2b7499ade25f89ea6cea7344d2cc98fbfa7e6  ./docs/en/env-vars.md
-4b623ad7d7d0818f46aef4ced8667f35dd78741a446fddc0bfb03d39fbb1ae2f  ./docs/en/errors.md
+eef1d9628c543082d45b70a44f7ec7e3410fbcfcd5f62a0334ea6752630545eb  ./docs/en/errors.md
 bc519fafc9d7d8573c6e614790d72883039d92401676e0dffa7dc954862e9db0  ./docs/en/fast-mode.md
 ca70421ad8c82c7168848472d45ca4421a764bc6ae6b07cb29adfc1aab969b41  ./docs/en/feature-availability.md
 eda9ecce85038815bdd9531e132f406c52d31078fd8f291fc3d5b7afdeadb9f2  ./docs/en/features-overview.md
@@ -106,8 +106,8 @@ bad37d06c688384e918d055f1f2c20eb819e47548f19c2f17b0d58d260250b1c  ./docs/en/larg
 38de3512a0ce6c572f98f78e475bab6ed145e8cfa3f76de796be8b60cd975665  ./docs/en/microsoft-foundry.md
 3a9f0740c3fa9545e4e61baa63676c5c24fbff0ae32b0de059557b299f842ac4  ./docs/en/mobile.md
 62f788133e4c991a53bf1580ed9f861600b8bfeb4de98ade03be0705b87e6b85  ./docs/en/model-config.md
-8eed27eef358562909bbaae9ca2558372c3183901d8b700d5638b1c0bf7588e5  ./docs/en/monitoring-usage.md
-b585de969c4afa01c8feb9073bdd8ca802f7b655cf7e740f785cfd18040605a2  ./docs/en/network-config.md
+76848bc4377b9074787da8c8ee48a7201204126fb219a3c59bc368f431e6b5de  ./docs/en/monitoring-usage.md
+76c4ac5a7f5eb4ca55064d63afadb3e5751a7cdd90f1579c8ba451ff6c77aac2  ./docs/en/network-config.md
 54d1fb85f0e20fa083e9cc76b29b37b674dd6c447499c1a62645ebae47155953  ./docs/en/output-styles.md
 fb1c6eac271eacf0bce114aa383a2b8920ac101733c6d6b8993147a9d45b8bc0  ./docs/en/overview.md
 d3569e2b3d25777570280e99e849566aadd06aec28e0286018f09637f70ce2bc  ./docs/en/permission-modes.md
@@ -127,7 +127,7 @@ b39d81a97db424ed2d641fc4481b80911410a1cba6d77fbeb557ce96c297f46a  ./docs/en/prom
 6f05f1c348769af573f09443f13da33015a958471e5a0b852af6ba6a591f0584  ./docs/en/sandbox-environments.md
 e4cd766b8a14fd3371f6e22ec9c5f3b8e1364f2a12a1268554be4687cc258ae5  ./docs/en/sandboxing.md
 c069da72de29cece78a9f3a69638218028b4fe0fec38bca092a4ad989f2f72cf  ./docs/en/scheduled-tasks.md
-22461c6098f964fc8c14effe2c685d51a85110f248b00b3f5ea93c7ea9a7539f  ./docs/en/security-guidance.md
+cb9341aaf69abf3602f67f27cc38307b4701f2e6d39e1f47c3bfdf07a7f56442  ./docs/en/security-guidance.md
 0886d228bdc321fff528389fe4de20cff477666458dbebd5f0f442fcb177a16b  ./docs/en/security.md
 e9f02b5eff23a6872cee72285abab39c7971d1bf59efff59a7993f4b4297053d  ./docs/en/server-managed-settings.md
 c5947f605c202c2093862579a94dc9448be5b53375846f29765e124fa369e843  ./docs/en/sessions.md
