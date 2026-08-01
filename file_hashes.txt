@@ -1,7 +1,7 @@
 559d98e415da49c9e7561b8eed0e38a048b54cb3d2ab5b14983836cad5e9d905  ./docs/en/accessibility.md
 6ff652eb462da2452b1097aef4bbd2acde4f822393dd9d1f16862f30a5d653ba  ./docs/en/admin-setup.md
 eac16abc57c5c6ca186e620c83ce2e67465489f8f605082db68476e9befdaf2b  ./docs/en/advisor.md
-b0e3d426790832b36ac1c3f1445f0c05415494074e9ec286c838a22ab9266e2c  ./docs/en/agent-sdk/agent-loop.md
+04fb0f9368ba871a48363c15f58255d569bad438c02cdf93479a0a29e3a13405  ./docs/en/agent-sdk/agent-loop.md
 70e0525878ffb62188f4b47aba4bdfa086be5add0079d2e70b3d0049de58ac1d  ./docs/en/agent-sdk/claude-code-features.md
 6e86a1805d9df68fea4136f08da116f8a3206603a4fe4a08d9aa1dfc5359ff7d  ./docs/en/agent-sdk/cost-tracking.md
 c81ddbb9ca99107bfb040c45d52b08c1a62cfe5261e9193189bb47b687f79eb5  ./docs/en/agent-sdk/custom-tools.md
@@ -16,7 +16,7 @@ a443e0c70e5b1c98998f6836a2a06ef17f310fb90dbd8e4c3f96b4179d4207bb  ./docs/en/agen
 6c195680e89c7eeeeaf4be439df425f565f353c21fdc941609d0f29884097348  ./docs/en/agent-sdk/permissions.md
 1d0da47cda713fd6af4338206e842e0211f46089baab49f7198745de02f12c77  ./docs/en/agent-sdk/plugins.md
 5d2c9fb502c3b550afee3f9cd3262fdd6765297bd960348a0eb72c302691d631  ./docs/en/agent-sdk/python.md
-585c6d1217ef01455d217ab9a56763bdb398d3275b60526f8b7547091a2cb396  ./docs/en/agent-sdk/quickstart.md
+f4c291936ecd082b6d39c44ca4293ff51694dc7ae29341aea590927d402b0dab  ./docs/en/agent-sdk/quickstart.md
 615ab777997e4b14ae8baa557fa12b86b5837094343c2084c37adb3657bdb25d  ./docs/en/agent-sdk/secure-deployment.md
 bcc58d0fc90e6345eb79a8a3908428ea26be00c91714d902399d1d3fafe9a49e  ./docs/en/agent-sdk/session-storage.md
 89e991b777429220e0eb6ef74656c4b89c6303eaf81b78afe4e8066d4f982e87  ./docs/en/agent-sdk/sessions.md
