@@ -81,7 +81,7 @@ acbb2a4fa359dc84d507d8b7cea5b4153e194fe45b993d10837452b2fabe8ffc  ./docs/en/desk
 7c6de567456d3ab279704b4a7515e54d5eec271bc8d8b4c36936caa07af7a5e6  ./docs/en/desktop.md
 6ce5a4633b2ba16e46310e1e9240bda46acbed4b91274fab045dbd664a0f9519  ./docs/en/devcontainer.md
 553736a3e17ea26cc335b70f232c739c171d0bd057e0a8d1f3fbcf4408c00cc9  ./docs/en/discover-plugins.md
-1973917c95bf48a36e1bc4474c0bf5f498fdf7bb2afebee169c5767c40616bb7  ./docs/en/env-vars.md
+5961f37b9369849f268b74e1afcc4305a58203c92b92b5f48c1a6d0b44a5f22d  ./docs/en/env-vars.md
 d965e49759ab4f64eb4f78ba2626f492675a8d0a84b822a72e774befc6cacf35  ./docs/en/errors.md
 8b834eab43477b848aa87e43f0b4493a46a191dc9f149b0cf410182215c9de32  ./docs/en/fast-mode.md
 de6d4d6f8f6dff7fbe564a425d8316ccb9488aeef19f7ee1d5d2700a7326de9f  ./docs/en/feature-availability.md
@@ -99,7 +99,7 @@ a3f6c53584ce22e900c44cf5c46ed114fc08c3ec9f5f12a1d6faa4247a8afa21  ./docs/en/head
 44481165eb466f1a3e7f27dd1375642b02f2b9e71df319085521af8f8e485f6d  ./docs/en/hooks-guide.md
 d29d21b554b5c6bd0b0ed1f7a28161c1cd05954510a6fd0acb84b74d496987fb  ./docs/en/hooks.md
 b661f1a67c55e9c6f1332d0f5272c028ba15b2adfefd0bb4b70342a4aa5b082b  ./docs/en/how-claude-code-works.md
-4281baa14a6befe1f13b27ef9ae94bc35552ee185fb23468218d880cb53e4e80  ./docs/en/interactive-mode.md
+4b4bb782f99f6db60cbfee917b58ddc76d8aa9b9fc94c0db0f218e4243c1ccf4  ./docs/en/interactive-mode.md
 556440470c081e7cd4c100239a20b4523efbf3e8b766c366bf1b24ab99fdc8d6  ./docs/en/jetbrains.md
 f4f92084c021ff3bcd249f58cbb9dd0f8a32cc80972db181bf9134c964bc0872  ./docs/en/keybindings.md
 6bf07b110b09df3ebffd62e9e4652bda424ed6ce3602cb25f3b02872623cf930  ./docs/en/large-codebases.md
@@ -147,7 +147,7 @@ d0c8712a8a5b11cc4b473018749898ea7a4b9474a9d9c04b9590af6281b9778a  ./docs/en/self
 4644c98894ef55b4c47c5b04e9e89e06efe62ed588506474e152ab9cc8462033  ./docs/en/self-hosted-environments.md
 e93c8920fb33e419a926ad5d92a810130a1f155762f12766a1596841af7b24fa  ./docs/en/server-managed-settings.md
 10073ff31800d4ffba991fd72f9b7fd6e1a54101e062a7696353f2c63c25625e  ./docs/en/sessions.md
-f668e49ff6c12c6c634ef1f8d44d5cb87158c811dba1aa04e191d1d229706292  ./docs/en/settings.md
+20a7c3bf0a74995739cce6c52a0bb7af3232a8a93885bb8186d2be6ebf76b753  ./docs/en/settings.md
 22d94bf028d677c9069d0ccfba5c8feccf665460ebd4b3db5acbc1ab4b3e46c4  ./docs/en/setup.md
 a833dd5c96b9b111de0daec5fc6436e210c8cdc009e51306d32438746db0b5a5  ./docs/en/skills.md
 878f148a01a2309622829a9b465cf4ccf8290c11e2aa0b8dd803127cbbe3710f  ./docs/en/slack.md
