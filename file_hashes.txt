@@ -179,7 +179,9 @@ b018b3971c54c267f4b4623676eedb339e2728b9a4c413cd07a0428739110dc4  ./docs/en/what
 f6386207819b3af9e7bb379d3e5df84dabf7f87b90fe9a5fc58e91d5c2ed5fe2  ./docs/en/whats-new/2026-w27.md
 d42c311bdf5932bcb49f8a765ada6d39073bfaa98d16fdf12807b7074463b83f  ./docs/en/whats-new/2026-w28.md
 275e9c88fadfa5cc0cb39665a4a5d89234c970295e0f4d0bc583e15e2ff9bb29  ./docs/en/whats-new/2026-w29.md
-9f66cbe31eb348a6d14df057a1b0bfa8dc0ee89e9e40db163a1be1723d518d34  ./docs/en/whats-new/index.md
+df099e47a73428b58df52eea4515ce2cc5894b6090a769e0f172808906f33ba1  ./docs/en/whats-new/2026-w30.md
+f7f1e5a97f228bf821404093e534ceaa95b1263fcb486cde6dc3eec851a93eaa  ./docs/en/whats-new/2026-w32.md
+598220ee884ac6bd854b235f57e7b9bbd6bf0e41f478523d52d824306c7bb039  ./docs/en/whats-new/index.md
 5e2e750ad5a2112c67cb1d79f5fe62eb49517ea5dcb70d881e4603869bec8145  ./docs/en/workflows.md
 c5a85623acef35889ca086313de4ddd3383c9b6ab4b04ff7e0dcfa583c41075d  ./docs/en/worktrees.md
 987003e69d73fb0de7161e222a7d660d42d839b9aaba073dea2074e6d20f127b  ./docs/en/zero-data-retention.md
