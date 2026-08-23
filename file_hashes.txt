@@ -42,7 +42,7 @@ a58656a5d4d6ab2df654272fa681b125e3454d17bcd7126a604806f83f44b5ac  ./docs/en/arti
 5f82ee19fbd49fd4ad63ab047002f9ade4a629f3b5f9963eeaec7d7fedee9c79  ./docs/en/auto-mode-config.md
 defa65b9be8f0c7ed96824822644bdb9334a6b6b71f13684ddd6f6995eccf56c  ./docs/en/best-practices.md
 5ca0f6d751352107724d381e6fbe3f2f15945a2e30367a747ebcdc7f359360ed  ./docs/en/champion-kit.md
-a22076f5a5d3916d2363c714d187a10c413a2cb2159e71711c4fb72d987f82c3  ./docs/en/changelog.md
+29f1a880760b883bbaa7fc752e97516c022eeb7111618b83f12955ef50c58422  ./docs/en/changelog.md
 b3fd0b5f24287dd4e5d49f5acc0a224d9224aa20f6c97273505b9cf50e12b046  ./docs/en/channels-reference.md
 294a7e533dfaae5eb2b82f4e5db0faafb6c79e779129fa3315cdf647578a3ce9  ./docs/en/channels.md
 52246fb2b8661534d935b5bf884de95bf93a11738d28e8bb56655a3f39136481  ./docs/en/checkpointing.md
@@ -52,7 +52,7 @@ fc4f482ebb837b7a0df8ad41ccbdce6f5a52c8028a34c1f2b7d875fb8e2004e0  ./docs/en/clau
 039b3519cf692bdd7ac27a4d85d2e8c960fab31a84560570fb7152237236a60d  ./docs/en/claude-apps-gateway-on-aws.md
 caa7e445cfbc099cddef18f5b448cb245d93c04df03ff514772a395cc1b4ba19  ./docs/en/claude-apps-gateway-on-gcp.md
 3a189ddd47d90f289a1847bc2ebacda1cd86b139d6e107b5ec29c4aa2e1cd913  ./docs/en/claude-apps-gateway-spend-limits.md
-847a1de96e50280485aef7f075b1620958442d0e151c70c8e3e212c822d85012  ./docs/en/claude-apps-gateway.md
+8663f94ba8c9f7245afbdad845269fdb640d346f25fe48802d1157f96979eba4  ./docs/en/claude-apps-gateway.md
 485cf406c80a907f139b5009e55247422cfe13bce7f852acb83109f18e7d2121  ./docs/en/claude-code-on-the-web.md
 09b4038db64703d58fcac356f02acf4e1f20a7ebc5aeb4be696fb0f8f3005265  ./docs/en/claude-directory.md
 37615ca54cb479d1a5bd54053b836c0aeccb4b6b57ffcf9ab63c35c4afab7a4a  ./docs/en/claude-platform-on-aws.md
@@ -126,11 +126,11 @@ b14be1930464992027b58ff897760ec49399123575de93b5a2294ea9e324323d  ./docs/en/plug
 cba6d1e4cb50ace8a02ed15cddc3f37f8098eadc01cae61a0f732b526b5b1232  ./docs/en/plugin-hints.md
 b9eebf6c5ea2e2ae5b3f7e43827a050d03db0cef61fb81c3d935c0682e036c19  ./docs/en/plugin-marketplaces.md
 e0ad4269e108a36538be65b279a2508d2452426e26c83b801844548d3836397f  ./docs/en/plugin-relevance.md
-9cc919151ddfa0f388eaf0b1ca903a982f466ac0efa1f66560e23dc4673e5394  ./docs/en/plugins-reference.md
+2997c815eebad8c8eccc5d0dbc10992d194b06de3eff855f497c7bcd6d81d0f1  ./docs/en/plugins-reference.md
 d353344e65fed118a88565ab463770a99d88ca073419b4d868ab4eb4dd54103a  ./docs/en/plugins.md
 dce7038229293bc966bd1e9bad3b58f0e508dbbbefab2fab4652a68e965e1872  ./docs/en/prompt-caching.md
 985ba3bd07863a741e2e5f137e14bc8fb173fa547242ad52de426929d3e9ecba  ./docs/en/prompt-library.md
-e1f9fc3587ad746953ff6457e075e6429ce04dcf01f5e3407fb2357aec6451eb  ./docs/en/quickstart.md
+6a7a0a38ced1235db962c3cd321c05a4370dc68732c9b41780d47ee489b33e0e  ./docs/en/quickstart.md
 d74839903571b022bb670696288c8fe7e441fbc9f1a1fc27bedb8ad7fb771008  ./docs/en/remote-control.md
 59ba25268a873f92008ef3fd3f8177609533205fe92bbea3181fa995b6185a73  ./docs/en/routines.md
 a863dc49f631afb71a1979e17d7ea8bfd8a67415242281d43384f3c8605562a7  ./docs/en/sandbox-environments.md
@@ -183,7 +183,9 @@ d42c311bdf5932bcb49f8a765ada6d39073bfaa98d16fdf12807b7074463b83f  ./docs/en/what
 275e9c88fadfa5cc0cb39665a4a5d89234c970295e0f4d0bc583e15e2ff9bb29  ./docs/en/whats-new/2026-w29.md
 df099e47a73428b58df52eea4515ce2cc5894b6090a769e0f172808906f33ba1  ./docs/en/whats-new/2026-w30.md
 cfbad4b72de7394d72cf97b7bb35a45ac25c8bc0b568db7f7c40478fe397ce4b  ./docs/en/whats-new/2026-w32.md
-598220ee884ac6bd854b235f57e7b9bbd6bf0e41f478523d52d824306c7bb039  ./docs/en/whats-new/index.md
+da98bb03b1c777c4195e767a34f850f7fb7e17ab273f9fc268f34e4642095aba  ./docs/en/whats-new/2026-w33.md
+1d892495d63b14a857c8aaaefa7d67568a43bd91f09009761e525c3083fa3a03  ./docs/en/whats-new/2026-w34.md
+30c6a1c955d7f66fa30e1fad08d49ff79ae92643906de413a303fd594d741667  ./docs/en/whats-new/index.md
 75130efe0d2514784e027fae2f1bf98d33f16863ea6c670e01c231a677fbf0d8  ./docs/en/workflows.md
 9becc26c155c210155d1e1797991a93a536bc47ccfeaa6b20f51d6f68f8d3f26  ./docs/en/worktrees.md
 218ed0e3c97a0f8f6f17679d701f1d1e77d844b65ebd54aef0e1f7eb929aaf95  ./docs/en/zero-data-retention.md
