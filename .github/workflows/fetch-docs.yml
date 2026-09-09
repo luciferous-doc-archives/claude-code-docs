@@ -41,6 +41,8 @@ jobs:
           PYTHONPATH: src
         run: uv run src/handlers/fetcher/fetcher.py
 
+      - run: ls -lF
+
       - name: Generate file hashes
         working-directory: docs/${{ env.TITLE }}-${{ steps.timestamp.outputs.value }}
         run: find . -type f | sort | xargs sha256sum > ../../current_file_hashes.txt
@@ -96,7 +98,7 @@ jobs:
           REPO_URL: ${{ github.server_url }}/${{ github.repository }}
           REPO_NAME: ${{ github.repository }}
         run: |
-          PAYLOAD=$(printf '{"text":"<!channel> GitHub Actions workflow failed: Fetch ${{ env.TITLE }}","blocks":[{"type":"section","text":{"type":"mrkdwn","text":"*Failed to fetch Slack Developer Docs*\n\nRepository: <%s|%s>\n\n<%s|View Details>"}}]}' "$REPO_URL" "$REPO_NAME" "$WORKFLOW_URL")
+          PAYLOAD=$(printf '{"text":"<!channel> GitHub Actions workflow failed: Fetch ${{ env.TITLE }}","blocks":[{"type":"section","text":{"type":"mrkdwn","text":"*Failed to fetch Claude Code Docs*\n\nRepository: <%s|%s>\n\n<%s|View Details>"}}]}' "$REPO_URL" "$REPO_NAME" "$WORKFLOW_URL")
           curl -X POST "$SLACK_WEBHOOK_URL" \
             -H 'Content-Type: application/json' \
             -d "$PAYLOAD"
